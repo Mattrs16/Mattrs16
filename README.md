@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salut, moi c'est Mattéo 👋
 
-<!--
-**Mattrs16/Mattrs16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiant en informatique**, passionné par la **Data** et le **Développement**
 
-Here are some ideas to get you started:
+### 🎯 Domaines d'intérêt
+* 📊 **Data :** Analyse / Modélisation / Visualisation / Gestion de BDD (SQL / PostgreSQL).
+* 💻 **Dev :** Développement d'applications web et d'APIs orientées données.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+`Python` • `SQL` • `PostgreSQL` • `Power Bi (DAX)` • `Excel (automate)` • `HTML/CSS` • `Git`
+
+### 📫 Contact
+[LinkedIn](www.linkedin.com/in/mattéo-rousseau-data)  
