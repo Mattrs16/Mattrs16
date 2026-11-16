@@ -10,4 +10,4 @@
 `Python` • `SQL` • `PostgreSQL` • `Power Bi (DAX)` • `Excel (automate)` • `HTML/CSS` • `Git`
 
 ### 📫 Contact
-[LinkedIn](www.linkedin.com/in/mattéo-rousseau-data)  
+[LinkedIn]: (www.linkedin.com/in/mattéo-rousseau-data)
